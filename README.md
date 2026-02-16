@@ -2,7 +2,7 @@
 
 1. How many patients we had in this time period? What is their trend?
 
-2. Who are our patients? Gender Breakdown, Age Grouping, Where they live and Who are they referred by?
+2. Who are our patients? Gender Breakdown, Age Grouping, Where they live?
 
 3. Departments: How buys are the departments?
 
